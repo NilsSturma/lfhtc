@@ -10,4 +10,4 @@ The code is written in `R` and `SageMath` and the repository is structured as fo
 
 * `R`: Code to generate all isomorphic classes of DAGs of experimental setups 1 and 2 and to check the latent-factor half-trek criterion on all of these graphs using the package `SEMID`.
 * `SageMath`: Code to check identifiability by algeraic techniques as described in Appendix C of the paper.
-* `experiments`: The results of the experiments saved as human readable json files.
+* `experiments`: The results of the experiments.
